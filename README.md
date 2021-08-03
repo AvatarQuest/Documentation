@@ -1,5 +1,7 @@
 # Documentation
-Gloves Documentation: https://calmgrass49.qoom.space/AvatarQuest/Documentations/vrglove.md
+Gloves SDK Documentation: https://avatarquest.github.io/Documentation/glove_docs/
+
+Our system: https://calmgrass49.qoom.space/AvatarQuest/Documentations/vrglove.md
 
 Unity asks choose legacy or unity xr: choose unity xr
 
